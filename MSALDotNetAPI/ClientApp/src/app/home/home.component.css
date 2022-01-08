@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+h1 {
+    margin: 50px 0;
+    font-family: 'Fugaz One', cursive;
+    font-size: 40pt;
+    color: #333;
+    text-align: center;
+}
+
+table {
+    width: 70%;
+    margin: 3% auto auto auto;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+}
