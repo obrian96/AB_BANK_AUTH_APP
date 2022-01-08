@@ -1,4 +1,4 @@
-# MSALDotNetAPI
+# AB_BANK_AUTH_APP Angular + MSALDotNetAPI
 
 > Sign-in with Microsoft Azure AD  
 Getting an access token with Azure AD and calling a ASP.NET Core Web API
